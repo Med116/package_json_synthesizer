@@ -1,14 +1,16 @@
 {
-"author": "mark",
-"name": "doo",
-"description": "doo",
-"version": "doo",
+"author": "mark116",
+"name": "mark davis",
+"description": "a script that creates a package.json file based on promting you for values",
+"version": "0.0.1",
 "repository":
-	{"url": "doo"},
-"main": "dood",
-"bin": "oood",
-"dependencies": "ood",
-"devDependencies": "ddo",
-"optionalDependencies": "doo",
-"engines": "doo"
+	{"url": "https://github.com/Med116/package_json_synthesizer"},
+"main": "./lib/main.js",
+"bin": {
+	"pjs":"./bin/pjs.js",
+},
+"dependencies": "",
+"devDependencies": "",
+"optionalDependencies": "",
+"engines": ""
 }
